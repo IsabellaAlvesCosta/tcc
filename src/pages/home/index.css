@@ -13,8 +13,8 @@
 }
 .logo{
     position: absolute;
-    width: 80px;
-    height: 80px;
+    width: 60px;
+    height: 60px;
     left: 24px;
     top: 8px;
 }
@@ -24,9 +24,9 @@
     box-sizing: border-box;
     text-align: end;
     position: absolute;
-    width: 99px;
-    height: 45px;
-    left: 1176px;
+    width: 69px;
+    height: 30px;
+    left: 780px;
     top: 30px;
     
     background: rgba(247, 203, 218, 0.33);
@@ -40,9 +40,9 @@
     box-sizing: border-box;
 
     position: absolute;
-    width: 99px;
-    height: 45px;
-    left: 1302px;
+    width: 69px;
+    height: 30px;
+    left: 892px;
     top: 30px;
 
     background: rgba(247, 203, 218, 0.33);
@@ -53,10 +53,10 @@
 
 .dress{
     position: absolute;
-    width: 245px;
-    height: 90px;
-    left: 568px;
-    top: 25px;
+    width: 300px;
+    height: 60px;
+    left: 368px;
+    top: 0.1em;
 
     font-family: 'IM FELL Great Primer';
     font-style: normal;
@@ -70,41 +70,41 @@
 
 .hr{
     position: absolute;
-    width: 1440px;
+    width: 1040px;
     height: 6px;
     left: 0px;
-    top: 109px;
+    top: 65px;
 
     background: #D9D9D9;
 }
 
 .maquina{
     position: absolute;
-    width: 150px;
-    height: 144.98px;
-    left: 29px;
-    top: 200px;
+    width: 146px;
+    height: 140px;
+    left: 9px;
+    top: 150px;
 }
 
 .tecido{
     position: absolute;
-    width: 150px;
-    height: 69.18px;
-    left: 138px;
-    top: 512px;
+    width: 140px;
+    height: 59.18px;
+    left: 80px;
+    top: 352px;
 }
 
 
 .titulo{
     position: absolute;
-    width: 1443px;
-    height: 65px;
-    
+    width: 1043px;
+    height: 25px;
+  
     font-family: 'Kantumruy';
     font-style: normal;
     font-weight: 700;
-    font-size: 36px;
-    line-height: 355px;    
+    font-size: 22px;
+    line-height: 225px;    
     text-align: center;
     color: #000000;
     
@@ -113,27 +113,22 @@
 
 .paragrafo{
     position: absolute;
-    width: 682px;
+    width: 482px;
     height: 130px;
-    left: 349px;
-    top: 353px;
+    left: 299px;
+    top: 153px;
 
     font-family: 'Kantumruy';
     font-style: normal;
-    font-weight: 700;
-    font-size: 24px;
-    line-height: 43px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
     text-align: center;
 
     color: #000000;
 }
 
-.noiva{
-    display: flex;
-    flex-direction: row;
-    align-items: flex-end;
 
-}
 
 .faixarosa{
     position: absolute;
@@ -149,21 +144,21 @@
     position: absolute;
     width: 400px;
     height: 330.99px;
-    left: 1040px;
-    top: 333px;
+    left: 730px;
+    top: 200px;
 }
 
 .cadastre{
     position: absolute;
     width: 237px;
     height: 109px;
-    left: 572px;
-    top: 581px;
+    left: 372px;
+    top: 381px;
 
     font-family: 'Kantumruy';
     font-style: normal;
     font-weight: 700;
-    font-size: 32px;
+    font-size: 26px;
     line-height: 58px;
     text-align: center;
 
@@ -173,11 +168,13 @@
 .faixarosa{
     position: absolute;
     width: 1495px;
-    height: 287px;
+    height: 104px;
     left: 0px;
-    top: 736px;
+    top: 536px;
 
     background: rgba(255, 215, 215, 0.8);
  }
 
+
+ 
 

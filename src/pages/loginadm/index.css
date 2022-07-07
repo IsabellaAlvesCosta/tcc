@@ -1,16 +1,16 @@
 .logo{
     position: absolute;
-    width: 100px;
-    height: 100px;
-    left: 64px;
-top: 36px;
+    width: 80px;
+    height: 80px;
+    left: 24px;
+    top: 12px;
 }
 
 .quadrado{
     position: absolute;
     width: 1036.08px;
     height: 946.55px;
-    left: 150px;
+    left: 80px;
     
 
     background: rgba(255, 215, 215, 0.8);
@@ -22,7 +22,7 @@ top: 36px;
     position: absolute;
     width: 636px;
     height: 80px;
-    left: 308px;
+    left: 280px;
     top: 46px;
     
     font-family: 'Kantumruy';
@@ -40,7 +40,7 @@ top: 36px;
     width: 100px;
     height: 58px;
     left: 469px;
-    top: 152px;
+    top: 202px;
 
     font-family: 'Kantumruy';
     font-style: normal;
@@ -57,7 +57,7 @@ top: 36px;
     width: 70px;
     height: 70px;
     left: 469px;
-    top: 231px;
+    top: 331px;
     
     font-family: 'Kantumruy';
     font-style: normal;
@@ -74,8 +74,8 @@ top: 36px;
     position: absolute;
     width: 94px;
     height: 32px;
-    left: 598px;
-    top: 450px;
+    left: 515px;
+    top: 530px;
     border-radius: 1em;
     background-color: #F8C1D3;
     font-family: 'Kantumruy';
@@ -87,4 +87,22 @@ top: 36px;
     
     color: #000000;
     
+}
+
+.sair{
+    position: absolute;
+    width: 39px;
+    height: 30px;
+    left: 40px;
+    top: 550px;
+
+    font-family: 'IM FELL Double Pica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+
+    text-align: center;
+
+    color: #000000;
 }

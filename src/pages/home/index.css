@@ -19,10 +19,10 @@
     top: 8px;
 }
 
-.login{
+.loginn{
    
     box-sizing: border-box;
-
+    text-align: end;
     position: absolute;
     width: 99px;
     height: 45px;

@@ -1,0 +1,202 @@
+.logo{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 10px;
+    top: 10px;
+}
+.quadrado{
+    position: absolute;
+    width: 1036.08px;
+    height: 906.55px;
+    left: 140px;
+    top: 50px;
+    
+
+    background: rgba(255, 215, 215, 0.8);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    transform: rotate(-89.84deg);
+}
+.longo{
+    position: absolute;
+    width: 108px;
+    height: 20px;
+    left: 1px;
+    top: 137px;
+    
+    font-family: 'IM FELL Double Pica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    
+    text-align: center;
+    
+    color: #000000;
+}
+
+.curtos{
+    position: absolute;
+    width: 108px;
+    height: 20px;
+    left: 1px;
+    top: 167px;
+    
+    font-family: 'IM FELL Double Pica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    
+    text-align: center;
+    
+    color: #000000;  
+}
+
+.praia{
+    position: absolute;
+    width: 108px;
+    height: 20px;
+    left: 1px;
+    top: 197px;
+    
+    font-family: 'IM FELL Double Pica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    
+    text-align: center;
+    
+    color: #000000;      
+}
+
+.perfil{
+    position: absolute;
+    width: 108px;
+    height: 20px;
+    left: 1px;
+    top: 507px;
+    
+    font-family: 'IM FELL Double Pica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    
+    text-align: center;
+    
+    color: #000000;  
+}
+
+.sair{
+    position: absolute;
+    width: 108px;
+    height: 20px;
+    left: 1px;
+    top: 547px;
+    
+    font-family: 'IM FELL Double Pica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    
+    text-align: center;
+    
+    color: #000000;  
+}
+
+.retangulo{
+    position: absolute;
+    width: 571px;
+    height: 172px;
+    left: 346px;
+    top: 151px;
+    
+    background: #FFFFFF;
+}
+
+.oi{
+    position: absolute;
+    width: 255px;
+    height: 43px;
+    left: 508px;
+    top: 36px;
+    
+    font-family: 'Kantumruy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 43px;
+    text-align: center;
+    
+    color: #000000;
+}
+
+.pedidos{
+    position: absolute;
+    width: 260px;
+    height: 60px;
+    left: 495px;
+    top: 142px;
+    
+    font-family: 'Kantumruy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 43px;
+    text-align: center;
+    
+    color: #000000;
+}
+
+.caixa{
+    position: absolute;
+    width: 70px;
+    height: 90.54px;
+    left: 538px;
+    top: 200px;
+}
+
+.caminhao{
+    position: absolute;
+    width: 100px;
+    height: 53.71px;
+    left: 628px;
+    top: 225px;
+}
+
+.processando{
+    position: absolute;
+    width: 85px;
+    height: 25px;
+    left: 530px;
+    top: 275px;
+    
+    font-family: 'Kantumruy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 25px;
+    text-align: center;
+    
+    color: #000000;
+}
+
+.enviado{
+    position: absolute;
+    width: 85px;
+    height: 25px;
+    left: 640px;
+    top: 275px;
+    
+    font-family: 'Kantumruy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 25px;
+    text-align: center;
+    
+    color: #000000;
+}
